@@ -16,7 +16,7 @@ Please read the legal terms or FAQ section of the respective apps if you have an
 |  :--- |  :---: |  :---: | :---: | :---: | :---: |
 | [EarnApp](https://t.co/k0w7jqLfxq)  | :heavy_check_mark:	  | :x: | No limit|1| Paypal, Gift Card |
 | [PacketStream](https://t.co/FtklOxS7QN)  | :heavy_check_mark:	  | :x: |No limit|1| Paypal |
-| [Honeygain](https://t.co/Xo1FwoUJx1) | :heavy_check_mark:	  | :x: |10|1| Crypto, Paypal |
+| [Honeygain](https://r.honeygain.me/ENCAI0B551) | :heavy_check_mark:	  | :x: |10|1| Crypto, Paypal |
 | [IPRoyal](https://t.co/7hZUclQbCd)  | :heavy_check_mark:	  | :x: |No limit|1|Crypto, Paypal|
 | [Ebesucher](https://www.ebesucher.com/?ref=engageub)  | :heavy_check_mark:	  | :x: |No limit|1| Paypal|
 | [Adnade](https://t.co/KthcbzPa08)  | :heavy_check_mark:	  | :x: |No limit|1|Crypto, Paypal| 
